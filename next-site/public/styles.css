@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'MagazineGrotesque-Regular';  
+    src: url('/fonts/magazine-grotesque-regular.ttf') format('truetype'),
+         url('/fonts/magazine-grotesque-regular.eot') format('truetype'),
+         url('/fonts/magazine-grotesque-regular.eot?#iefix') format('embedded-opentype'),       
+         url('/fonts/magazine-grotesque-regular.woff') format('woff'),       
+         url('/fonts/magazine-grotesque-regular.svg') format('svg');
+  }
+  
+  @font-face {
+    font-family: 'MagazineGrotesque-Bold';  
+    src: url('/fonts/magazine-grotesque-bold.ttf') format('truetype'),
+         url('/fonts/magazine-grotesque-bold.eot') format('truetype'),
+         url('/fonts/magazine-grotesque-bold.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/magazine-grotesque-bold.woff2') format('woff2'),
+         url('/fonts/magazine-grotesque-bold.woff') format('woff'),       
+         url('/fonts/magazine-grotesque-bold.svg') format('svg');
+  }
+  
+  @font-face {
+    font-family: 'MagazineGrotesque-SemiBold';  
+    src: url('/fonts/magazine-grotesque-semibold.ttf') format('truetype'),
+         url('/fonts/magazine-grotesque-semibold.eot') format('truetype'),
+         url('/fonts/magazine-grotesque-semibold.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/magazine-grotesque-semibold.woff2') format('woff2'),
+         url('/fonts/magazine-grotesque-semibold.woff') format('woff'),       
+         url('/fonts/magazine-grotesque-semibold.svg') format('svg');
+  }
+  
+  @font-face {
+    font-family: 'MagazineGrotesque-Black';  
+    src: url('/fonts/magazine-grotesque-black.ttf') format('truetype'),
+         url('/fonts/magazine-grotesque-black.eot') format('truetype'),
+         url('/fonts/magazine-grotesque-black.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/magazine-grotesque-black.woff2') format('woff2'),
+         url('/fonts/magazine-grotesque-black.woff') format('woff'),       
+         url('/fonts/magazine-grotesque-black.svg') format('svg');
+  }
+  
+  @font-face {
+    font-family: 'MagazineGrotesque-ExtraLight';  
+    src: url('/fonts/magazine-grotesque-extralight.ttf') format('truetype'),
+         url('/fonts/magazine-grotesque-extralight.eot') format('truetype'),
+         url('/fonts/magazine-grotesque-extralight.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/magazine-grotesque-extralight.woff2') format('woff2'),
+         url('/fonts/magazine-grotesque-extralight.woff') format('woff'),       
+         url('/fonts/magazine-grotesque-extralight.svg') format('svg');
+  }
+  
+  @font-face {
+    font-family: 'MagazineGrotesque-Heavy';  
+    src: url('/fonts/magazine-grotesque-heavy.ttf') format('truetype'),
+         url('/fonts/magazine-grotesque-heavy.eot') format('truetype'),
+         url('/fonts/magazine-grotesque-heavy.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/magazine-grotesque-heavy.woff2') format('woff2'),
+         url('/fonts/magazine-grotesque-heavy.woff') format('woff'),       
+         url('/fonts/magazine-grotesque-heavy.svg') format('svg');
+  }
+  
+  @font-face {
+    font-family: 'MagazineGrotesque-Light';  
+    src: url('/fonts/magazine-grotesque-light.ttf') format('truetype'),
+         url('/fonts/magazine-grotesque-light.eot') format('truetype'),
+         url('/fonts/magazine-grotesque-light.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/magazine-grotesque-light.woff2') format('woff2'),
+         url('/fonts/magazine-grotesque-light.woff') format('woff'),       
+         url('/fonts/magazine-grotesque-light.svg') format('svg');
+  }
+  
+  @font-face {
+    font-family: 'MagazineGrotesque-Thin';  
+    src: url('/fonts/magazine-grotesque-thin.ttf') format('truetype'),
+         url('/fonts/magazine-grotesque-thin.eot') format('truetype'),
+         url('/fonts/magazine-grotesque-thin.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/magazine-grotesque-thin.woff2') format('woff2'),
+         url('/fonts/magazine-grotesque-thin.woff') format('woff'),       
+         url('/fonts/magazine-grotesque-thin.svg') format('svg');
+  }
+  

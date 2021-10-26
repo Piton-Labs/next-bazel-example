@@ -1,0 +1,43 @@
+package(default_visibility = ["//visibility:public"])
+
+################################################################################
+# OPERATING SYSTEMS
+################################################################################
+
+config_setting(
+    name = "darwin",
+    values = {"cpu": "darwin"},
+    visibility = ["//visibility:public"],
+)
+
+config_setting(
+    name = "linux",
+    values = {"cpu": "k8"},
+    visibility = ["//visibility:public"],
+)
+
+config_setting(
+    name = "darwin_arm64",
+    values = {"cpu": "darwin_arm64"},
+    visibility = ["//visibility:public"],
+)
+
+platform(
+    name = "darwin_amd64",
+    constraint_values = [
+        "@platforms//os:osx",
+        "@platforms//cpu:arm64",
+    ],
+)
+
+################################################################################
+# EXPORTS
+################################################################################
+
+filegroup(
+    name = "config",
+    srcs = [
+        "package.json",
+        "yarn.lock",
+    ],
+)
