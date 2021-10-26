@@ -14,4 +14,3 @@ You run a prod version of the site by doing `bazel run //next-site:start`.
 * Examples of packaging the up the prod site for use in docker or similar.
 
 We are working on a more elaborate example that will cover those cases.
-
